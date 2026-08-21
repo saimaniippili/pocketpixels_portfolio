@@ -1,0 +1,1 @@
+ALTER TABLE `galleryImages` MODIFY COLUMN `imageKey` text NOT NULL;

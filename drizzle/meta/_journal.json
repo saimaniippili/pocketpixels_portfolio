@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1777349824921,
+      "tag": "0000_special_scream",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1777349950935,
+      "tag": "0001_wakeful_paladin",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1777353129067,
+      "tag": "0002_lonely_lenny_balinger",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1780321552654,
+      "tag": "0003_amazing_puppet_master",
+      "breakpoints": true
+    }
+  ]
+}
