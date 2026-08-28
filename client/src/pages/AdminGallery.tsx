@@ -144,6 +144,16 @@ function CarouselReorderModal({
     setSlides(newSlides);
   };
 
+  const handleDeleteSlide = (index: number) => {
+    if (slides.length <= 1) {
+      toast.error("Cannot delete the last slide. Delete the entire entry instead.");
+      return;
+    }
+    const newSlides = [...slides];
+    newSlides.splice(index, 1);
+    setSlides(newSlides);
+  };
+
   const handleSave = async () => {
     setIsSaving(true);
     try {
@@ -256,6 +266,16 @@ function CarouselReorderModal({
                         className="border-neutral-850 text-white hover:border-[#d4af37]/45 text-[7px] sm:text-[8px] font-bold px-1.5 py-1 h-auto rounded disabled:opacity-30"
                       >
                         ▼
+                      </Button>
+                      <Button
+                        type="button"
+                        variant="outline"
+                        size="sm"
+                        onClick={() => handleDeleteSlide(index)}
+                        className="border-red-900/50 text-red-500 hover:bg-red-950 hover:text-red-400 hover:border-red-500/50 text-[7px] sm:text-[8px] font-bold px-1.5 py-1 h-auto rounded ml-1"
+                        title="Delete Slide"
+                      >
+                        <Trash2 size={10} />
                       </Button>
                     </div>
                   </div>
