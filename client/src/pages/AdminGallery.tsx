@@ -1256,38 +1256,38 @@ export default function AdminGallery() {
           </h2>
           
           {/* Category Reorder HUD Actions Bar */}
-          <div className="flex gap-2 flex-wrap mb-8 bg-neutral-950 p-4 rounded-2xl border border-neutral-900 font-mono text-[9px] select-none">
-            <span className="text-neutral-500 uppercase font-black self-center mr-2 tracking-widest text-[8px]">TUNING SWITCHBOARD:</span>
+          <div className="flex gap-3 flex-wrap mb-8 items-center font-mono text-[10px] select-none">
+            <span className="text-neutral-500 uppercase font-bold tracking-[0.2em] mr-2">TUNING SWITCHBOARD:</span>
             <button
               type="button"
               onClick={() => setReorderCategory("landscapes")}
-              className="border border-[#d4af37]/30 text-[#d4af37] hover:bg-[#d4af37]/10 px-3.5 py-2 rounded-xl uppercase tracking-widest font-black transition-all flex items-center gap-2 cursor-pointer"
+              className="border border-[#d4af37]/50 text-[#d4af37] hover:bg-[#d4af37]/10 px-5 py-2 rounded-full uppercase tracking-widest font-black transition-all flex items-center gap-2 cursor-pointer"
             >
-              <Images size={12} />
+              <Images size={14} />
               TUNE LANDSCAPES (SLIDESHOW TIMELINE)
             </button>
             <button
               type="button"
               onClick={() => setReorderCategory("hero")}
-              className="border border-[#d4af37]/30 text-[#d4af37] hover:bg-[#d4af37]/10 px-3.5 py-2 rounded-xl uppercase tracking-widest font-black transition-all flex items-center gap-2 cursor-pointer"
+              className="border border-[#d4af37]/50 text-[#d4af37] hover:bg-[#d4af37]/10 px-5 py-2 rounded-full uppercase tracking-widest font-black transition-all flex items-center gap-2 cursor-pointer"
             >
-              <Images size={12} className="rotate-90" />
+              <Images size={14} />
               TUNE HERO (BATCH CARDS STACK)
             </button>
             <button
               type="button"
               onClick={() => setReorderCategory("streets")}
-              className="border border-[#d4af37]/30 text-[#d4af37] hover:bg-[#d4af37]/10 px-3.5 py-2 rounded-xl uppercase tracking-widest font-black transition-all flex items-center gap-2 cursor-pointer"
+              className="border border-[#d4af37]/50 text-[#d4af37] hover:bg-[#d4af37]/10 px-5 py-2 rounded-full uppercase tracking-widest font-black transition-all flex items-center gap-2 cursor-pointer"
             >
-              <Images size={12} />
+              <Images size={14} />
               TUNE STREETS
             </button>
             <button
               type="button"
               onClick={() => setReorderCategory("moments")}
-              className="border border-[#d4af37]/30 text-[#d4af37] hover:bg-[#d4af37]/10 px-3.5 py-2 rounded-xl uppercase tracking-widest font-black transition-all flex items-center gap-2 cursor-pointer"
+              className="border border-[#d4af37]/50 text-[#d4af37] hover:bg-[#d4af37]/10 px-5 py-2 rounded-full uppercase tracking-widest font-black transition-all flex items-center gap-2 cursor-pointer"
             >
-              <Images size={12} />
+              <Images size={14} />
               TUNE MOMENTS
             </button>
           </div>
@@ -1405,7 +1405,17 @@ export default function AdminGallery() {
                           variant="outline"
                           size="sm"
                           className="flex-1 border-neutral-800 text-red-500 hover:text-white hover:bg-red-500 hover:border-red-500 text-[10px] font-black tracking-widest"
-                          onClick={() => deleteMutation.mutate(image.id)}
+                          onClick={() => {
+                            if (isCarouselCard) {
+                              if (window.confirm(`Are you sure you want to delete this ENTIRE carousel containing ${imagesCount} images?\n\nIf you only want to delete specific images, use the "REORDER CAROUSEL SLIDES" button instead.`)) {
+                                deleteMutation.mutate(image.id);
+                              }
+                            } else {
+                              if (window.confirm("Are you sure you want to delete this image?")) {
+                                deleteMutation.mutate(image.id);
+                              }
+                            }
+                          }}
                           disabled={deleteMutation.isPending}
                         >
                           <Trash2 size={12} className="mr-1" />
