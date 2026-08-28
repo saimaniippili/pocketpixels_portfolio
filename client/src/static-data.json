@@ -25,28 +25,28 @@
       "updatedAt": "2026-04-28T12:51:18.000Z"
     },
     {
-      "id": 44,
-      "title": "Freedom",
+      "id": 53,
+      "title": "PORSCHE911",
       "description": null,
-      "imageUrl": "/exported-images/44_freedom.png",
-      "imageKey": "gallery/1781442486980_Picsart_26-06-12_19-19-09-441_0bde42a4.png",
-      "category": "moments",
+      "imageUrl": "[\"/exported-images/53_porsche911_0.png\",\"/exported-images/53_porsche911_1.jpg\",\"/exported-images/53_porsche911_2.jpg\",\"/exported-images/53_porsche911_3.png\"]",
+      "imageKey": "[\"gallery/1784024153610_Picsart_26-06-28_14-50-19-998_0b5f15ad.png\",\"gallery/1784024150838_IMG_20260628_111008_09d65cfe.jpeg\",\"gallery/1784024151190_IMG_20260628_111033_7fe668d1.jpg\",\"gallery/1784024152154_Picsart_26-06-28_14-44-40-793_ac89b4d8.png\"]",
+      "category": "landscapes",
       "displayOrder": 0,
       "isPublished": 1,
-      "createdAt": "2026-06-14T18:38:07.000Z",
-      "updatedAt": "2026-06-14T18:38:07.000Z"
+      "createdAt": "2026-07-14T15:45:53.000Z",
+      "updatedAt": "2026-07-14T15:46:06.000Z"
     },
     {
-      "id": 45,
-      "title": "Sanctuary",
+      "id": 54,
+      "title": "F1",
       "description": null,
-      "imageUrl": "/exported-images/45_sanctuary.png",
-      "imageKey": "gallery/1781442532138_Picsart_26-06-12_19-13-28-241_6d1aa41d.png",
-      "category": "moments",
+      "imageUrl": "[\"/exported-images/54_f1_0.png\",\"/exported-images/54_f1_1.png\",\"/exported-images/54_f1_2.png\",\"/exported-images/54_f1_3.png\",\"/exported-images/54_f1_4.png\"]",
+      "imageKey": "[\"gallery/1784024313606_Picsart_26-06-30_00-41-57-597_58ae6963.png\",\"gallery/1784024320229_Picsart_26-06-30_12-39-19-366_7217e6a4.png\",\"gallery/1784024315263_Picsart_26-06-30_12-14-18-683_07aba773.png\",\"gallery/1784024316791_Picsart_26-06-30_12-17-26-356_c11bfa14.png\",\"gallery/1784024318505_Picsart_26-06-30_12-25-05-683_417541aa.png\"]",
+      "category": "landscapes",
       "displayOrder": 0,
       "isPublished": 1,
-      "createdAt": "2026-06-14T18:38:52.000Z",
-      "updatedAt": "2026-06-14T18:38:52.000Z"
+      "createdAt": "2026-07-14T15:48:40.000Z",
+      "updatedAt": "2026-07-14T15:48:50.000Z"
     },
     {
       "id": 8,
@@ -85,16 +85,16 @@
       "updatedAt": "2026-04-28T13:54:50.000Z"
     },
     {
-      "id": 46,
-      "title": "Majesty",
+      "id": 55,
+      "title": "Ford Angila 105E",
       "description": null,
-      "imageUrl": "/exported-images/46_majesty.png",
-      "imageKey": "gallery/1781442583901_Picsart_26-06-12_16-22-52-945_f3d143da.png",
-      "category": "streets",
+      "imageUrl": "[\"/exported-images/55_ford_angila_105e_0.png\",\"/exported-images/55_ford_angila_105e_1.png\",\"/exported-images/55_ford_angila_105e_2.jpg\",\"/exported-images/55_ford_angila_105e_3.jpg\",\"/exported-images/55_ford_angila_105e_4.jpg\",\"/exported-images/55_ford_angila_105e_5.png\"]",
+      "imageKey": "[\"gallery/1784024526365_Picsart_26-07-01_12-45-53-976_7259856a.png\",\"gallery/1784024527768_Picsart_26-07-01_12-50-57-116_7cd6d720.png\",\"gallery/1784024524103_IMG_20260630_230215_a7ad1d4d.jpeg\",\"gallery/1784024524436_IMG_20260630_230223_57784010.jpeg\",\"gallery/1784024524713_IMG_20260630_230239_2e602e10.jpeg\",\"gallery/1784024529588_Picsart_26-07-01_19-26-18-302_2c72924c.png\"]",
+      "category": "landscapes",
       "displayOrder": 0,
       "isPublished": 1,
-      "createdAt": "2026-06-14T18:39:44.000Z",
-      "updatedAt": "2026-06-14T18:39:44.000Z"
+      "createdAt": "2026-07-14T15:52:09.000Z",
+      "updatedAt": "2026-07-14T15:52:35.000Z"
     },
     {
       "id": 12,
@@ -109,16 +109,16 @@
       "updatedAt": "2026-04-28T13:56:16.000Z"
     },
     {
-      "id": 47,
-      "title": "Time",
+      "id": 57,
+      "title": "PORSCHE",
       "description": null,
-      "imageUrl": "/exported-images/47_time.png",
-      "imageKey": "gallery/1781442615106_Picsart_26-06-12_18-42-47-958_907881b1.png",
-      "category": "moments",
+      "imageUrl": "[\"/exported-images/57_porsche_0.jpg\",\"/exported-images/57_porsche_1.jpg\",\"/exported-images/57_porsche_2.jpg\",\"/exported-images/57_porsche_3.jpg\"]",
+      "imageKey": "[\"gallery/1787309287781_IMG_20260628_111858_ae90b471.jpeg\",\"gallery/1787309288082_IMG_20260628_111904 (1)_c44e47f8.jpeg\",\"gallery/1787309288338_IMG_20260628_112000_67d61437.jpeg\",\"gallery/1787309288619_IMG_20260628_112021 (1)_43bd4577.jpeg\"]",
+      "category": "landscapes",
       "displayOrder": 0,
       "isPublished": 1,
-      "createdAt": "2026-06-14T18:40:15.000Z",
-      "updatedAt": "2026-06-14T18:40:15.000Z"
+      "createdAt": "2026-08-21T16:18:08.000Z",
+      "updatedAt": "2026-08-21T16:18:08.000Z"
     },
     {
       "id": 14,
@@ -169,16 +169,16 @@
       "updatedAt": "2026-06-01T18:57:27.000Z"
     },
     {
-      "id": 48,
-      "title": "Solitude",
+      "id": 58,
+      "title": "Honda",
       "description": null,
-      "imageUrl": "/exported-images/48_solitude.png",
-      "imageKey": "gallery/1781443044465_Picsart_26-06-12_19-44-19-077_e907f897.png",
-      "category": "streets",
+      "imageUrl": "[\"/exported-images/58_honda_0.jpg\",\"/exported-images/58_honda_1.jpg\",\"/exported-images/58_honda_2.jpg\",\"/exported-images/58_honda_3.jpg\",\"/exported-images/58_honda_4.jpg\"]",
+      "imageKey": "[\"gallery/1787309483154_IMG_20260630_224140_d170f495.jpeg\",\"gallery/1787309483373_IMG_20260630_224335_1858435e.jpeg\",\"gallery/1787309483608_IMG_20260630_224345_48b9e8fe.jpeg\",\"gallery/1787309483822_IMG_20260630_224404_b5dbe4c5.jpeg\",\"gallery/1787309484031_IMG_20260630_224531_28e3e95e.jpeg\"]",
+      "category": "landscapes",
       "displayOrder": 0,
       "isPublished": 1,
-      "createdAt": "2026-06-14T18:47:24.000Z",
-      "updatedAt": "2026-06-14T18:47:24.000Z"
+      "createdAt": "2026-08-21T16:21:24.000Z",
+      "updatedAt": "2026-08-21T16:21:24.000Z"
     },
     {
       "id": 26,
@@ -241,16 +241,28 @@
       "updatedAt": "2026-06-01T19:31:13.000Z"
     },
     {
-      "id": 32,
-      "title": "Legacy",
+      "id": 59,
+      "title": "1000067252",
       "description": null,
-      "imageUrl": "/exported-images/32_legacy.png",
-      "imageKey": "gallery/1780323806298_Picsart_26-05-30_12-32-20-427_0fa4dcdb.png",
-      "category": "hero",
+      "imageUrl": "/exported-images/59_1000067252.jpg",
+      "imageKey": "gallery/1787311472189_1000067252_482cdbc2.jpeg",
+      "category": "streets",
       "displayOrder": 0,
       "isPublished": 1,
-      "createdAt": "2026-06-01T19:53:26.000Z",
-      "updatedAt": "2026-06-01T19:53:26.000Z"
+      "createdAt": "2026-08-21T16:54:32.000Z",
+      "updatedAt": "2026-08-21T16:54:32.000Z"
+    },
+    {
+      "id": 60,
+      "title": "Random Clicks",
+      "description": null,
+      "imageUrl": "[\"/exported-images/60_random_clicks_0.png\",\"/exported-images/60_random_clicks_1.png\",\"/exported-images/60_random_clicks_2.png\",\"/exported-images/60_random_clicks_3.png\",\"/exported-images/60_random_clicks_4.png\"]",
+      "imageKey": "[\"gallery/1787909695610_Picsart_26-08-27_22-36-09-774_53017244.png\",\"gallery/1787909698083_Picsart_26-08-27_22-41-08-674_e2ba7e16.png\",\"gallery/1787909700489_Picsart_26-08-27_22-45-03-071_5082ca58.png\",\"gallery/1787909702521_Picsart_26-08-27_22-47-55-410_0f688261.png\",\"gallery/1787909705395_Picsart_26-08-27_22-51-24-504_429f5b3d.png\"]",
+      "category": "streets",
+      "displayOrder": 0,
+      "isPublished": 1,
+      "createdAt": "2026-08-28T15:05:05.000Z",
+      "updatedAt": "2026-08-28T15:05:05.000Z"
     },
     {
       "id": 36,
@@ -325,6 +337,114 @@
       "updatedAt": "2026-06-14T18:36:27.000Z"
     },
     {
+      "id": 44,
+      "title": "Freedom",
+      "description": null,
+      "imageUrl": "/exported-images/44_freedom.png",
+      "imageKey": "gallery/1781442486980_Picsart_26-06-12_19-19-09-441_0bde42a4.png",
+      "category": "moments",
+      "displayOrder": 0,
+      "isPublished": 1,
+      "createdAt": "2026-06-14T18:38:07.000Z",
+      "updatedAt": "2026-06-14T18:38:07.000Z"
+    },
+    {
+      "id": 45,
+      "title": "Sanctuary",
+      "description": null,
+      "imageUrl": "/exported-images/45_sanctuary.png",
+      "imageKey": "gallery/1781442532138_Picsart_26-06-12_19-13-28-241_6d1aa41d.png",
+      "category": "moments",
+      "displayOrder": 0,
+      "isPublished": 1,
+      "createdAt": "2026-06-14T18:38:52.000Z",
+      "updatedAt": "2026-06-14T18:38:52.000Z"
+    },
+    {
+      "id": 46,
+      "title": "Majesty",
+      "description": null,
+      "imageUrl": "/exported-images/46_majesty.png",
+      "imageKey": "gallery/1781442583901_Picsart_26-06-12_16-22-52-945_f3d143da.png",
+      "category": "streets",
+      "displayOrder": 0,
+      "isPublished": 1,
+      "createdAt": "2026-06-14T18:39:44.000Z",
+      "updatedAt": "2026-06-14T18:39:44.000Z"
+    },
+    {
+      "id": 47,
+      "title": "Time",
+      "description": null,
+      "imageUrl": "/exported-images/47_time.png",
+      "imageKey": "gallery/1781442615106_Picsart_26-06-12_18-42-47-958_907881b1.png",
+      "category": "moments",
+      "displayOrder": 0,
+      "isPublished": 1,
+      "createdAt": "2026-06-14T18:40:15.000Z",
+      "updatedAt": "2026-06-14T18:40:15.000Z"
+    },
+    {
+      "id": 48,
+      "title": "Solitude",
+      "description": null,
+      "imageUrl": "/exported-images/48_solitude.png",
+      "imageKey": "gallery/1781443044465_Picsart_26-06-12_19-44-19-077_e907f897.png",
+      "category": "streets",
+      "displayOrder": 0,
+      "isPublished": 1,
+      "createdAt": "2026-06-14T18:47:24.000Z",
+      "updatedAt": "2026-06-14T18:47:24.000Z"
+    },
+    {
+      "id": 49,
+      "title": "Freedom",
+      "description": null,
+      "imageUrl": "/exported-images/49_freedom.jpg",
+      "imageKey": "gallery/1781621998532_1000061642_6ec4cceb.jpeg",
+      "category": "moments",
+      "displayOrder": 0,
+      "isPublished": 1,
+      "createdAt": "2026-06-16T20:29:58.000Z",
+      "updatedAt": "2026-06-16T20:29:58.000Z"
+    },
+    {
+      "id": 50,
+      "title": "Freedom",
+      "description": null,
+      "imageUrl": "/exported-images/50_freedom.jpg",
+      "imageKey": "gallery/1781622265385_1000061642_440f53dc.jpeg",
+      "category": "hero",
+      "displayOrder": 0,
+      "isPublished": 1,
+      "createdAt": "2026-06-16T20:34:25.000Z",
+      "updatedAt": "2026-08-28T15:04:00.000Z"
+    },
+    {
+      "id": 51,
+      "title": "Character,detail and speed.",
+      "description": null,
+      "imageUrl": "[\"/exported-images/51_character_detail_and_speed__0.jpg\",\"/exported-images/51_character_detail_and_speed__1.jpg\",\"/exported-images/51_character_detail_and_speed__2.jpg\",\"/exported-images/51_character_detail_and_speed__3.jpg\"]",
+      "imageKey": "[\"gallery/1781622345930_Picsart_26-06-16_11-39-16-619_c2e3faee.jpeg\",\"gallery/1781622346437_Picsart_26-06-16_11-56-09-907_47e13038.jpeg\",\"gallery/1781622346218_Picsart_26-06-16_11-50-54-754_c1c31c1c.jpeg\",\"gallery/1781622345616_Picsart_26-06-16_11-34-51-939_b5dd1849.jpeg\"]",
+      "category": "landscapes",
+      "displayOrder": 0,
+      "isPublished": 1,
+      "createdAt": "2026-06-16T20:35:46.000Z",
+      "updatedAt": "2026-06-16T20:36:02.000Z"
+    },
+    {
+      "id": 52,
+      "title": "STILLNESS",
+      "description": null,
+      "imageUrl": "[\"/exported-images/52_stillness_0.jpg\",\"/exported-images/52_stillness_1.jpg\",\"/exported-images/52_stillness_2.jpg\",\"/exported-images/52_stillness_3.jpg\",\"/exported-images/52_stillness_4.jpg\"]",
+      "imageKey": "[\"gallery/1784024026892_1000067252_e1b16486.jpeg\",\"gallery/1784024028837_IMG_20260712_154729_4f5e07b9.jpeg\",\"gallery/1784024028271_IMG_20260705_112437 (1)_2ab303ab.jpeg\",\"gallery/1784024027665_IMG_20260705_112355_03b759de.jpeg\",\"gallery/1784024029478_Picsart_26-07-14_13-12-36-313_cec0dd38.jpg\"]",
+      "category": "streets",
+      "displayOrder": 0,
+      "isPublished": 1,
+      "createdAt": "2026-07-14T15:43:49.000Z",
+      "updatedAt": "2026-07-14T15:44:16.000Z"
+    },
+    {
       "id": 11,
       "title": "peace bubble",
       "description": null,
@@ -335,6 +455,18 @@
       "isPublished": 1,
       "createdAt": "2026-04-28T13:55:21.000Z",
       "updatedAt": "2026-06-01T20:09:02.000Z"
+    },
+    {
+      "id": 32,
+      "title": "Legacy",
+      "description": null,
+      "imageUrl": "/exported-images/32_legacy.png",
+      "imageKey": "gallery/1780323806298_Picsart_26-05-30_12-32-20-427_0fa4dcdb.png",
+      "category": "hero",
+      "displayOrder": 1,
+      "isPublished": 1,
+      "createdAt": "2026-06-01T19:53:26.000Z",
+      "updatedAt": "2026-08-28T15:04:00.000Z"
     },
     {
       "id": 13,
