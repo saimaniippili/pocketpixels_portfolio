@@ -25,28 +25,28 @@
       "updatedAt": "2026-04-28T12:51:18.000Z"
     },
     {
-      "id": 59,
+      "id": 63,
       "title": "1000067252",
       "description": null,
-      "imageUrl": "/exported-images/59_1000067252.jpg",
-      "imageKey": "gallery/1787311472189_1000067252_482cdbc2.jpeg",
+      "imageUrl": "/exported-images/63_1000067252.jpg",
+      "imageKey": "gallery/1788097456725_1000067252_5ebcda12.jpeg",
       "category": "streets",
       "displayOrder": 0,
       "isPublished": 1,
-      "createdAt": "2026-08-21T16:54:32.000Z",
-      "updatedAt": "2026-08-21T16:54:32.000Z"
+      "createdAt": "2026-08-30T19:14:16.000Z",
+      "updatedAt": "2026-08-30T19:14:16.000Z"
     },
     {
-      "id": 60,
-      "title": "Random Clicks",
+      "id": 64,
+      "title": "Beauty Behind the Bars",
       "description": null,
-      "imageUrl": "[\"/exported-images/60_random_clicks_0.png\",\"/exported-images/60_random_clicks_1.png\",\"/exported-images/60_random_clicks_2.png\",\"/exported-images/60_random_clicks_3.png\",\"/exported-images/60_random_clicks_4.png\"]",
-      "imageKey": "[\"gallery/1787909695610_Picsart_26-08-27_22-36-09-774_53017244.png\",\"gallery/1787909698083_Picsart_26-08-27_22-41-08-674_e2ba7e16.png\",\"gallery/1787909700489_Picsart_26-08-27_22-45-03-071_5082ca58.png\",\"gallery/1787909702521_Picsart_26-08-27_22-47-55-410_0f688261.png\",\"gallery/1787909705395_Picsart_26-08-27_22-51-24-504_429f5b3d.png\"]",
+      "imageUrl": "[\"/exported-images/64_beauty_behind_the_bars_0.jpg\",\"/exported-images/64_beauty_behind_the_bars_1.png\",\"/exported-images/64_beauty_behind_the_bars_2.png\",\"/exported-images/64_beauty_behind_the_bars_3.png\",\"/exported-images/64_beauty_behind_the_bars_4.png\",\"/exported-images/64_beauty_behind_the_bars_5.png\",\"/exported-images/64_beauty_behind_the_bars_6.png\",\"/exported-images/64_beauty_behind_the_bars_7.png\",\"/exported-images/64_beauty_behind_the_bars_8.jpg\",\"/exported-images/64_beauty_behind_the_bars_9.png\"]",
+      "imageKey": "[\"gallery/1788097885544_IMG_20260830_074339 (1)_ddc7210b.jpeg\",\"gallery/1788097888877_Picsart_26-08-30_13-13-40-343_db4bba12.png\",\"gallery/1788097892314_Picsart_26-08-30_13-14-38-297_6291d7db.png\",\"gallery/1788097898842_Picsart_26-08-30_13-16-19-822_fc6a8d2a.png\",\"gallery/1788097901749_Picsart_26-08-30_13-17-09-885_e48752f6.png\",\"gallery/1788097904777_Picsart_26-08-30_13-17-58-917_9d5bb1a1.png\",\"gallery/1788097907943_Picsart_26-08-30_13-18-55-163_bff3d2ea.png\",\"gallery/1788097911306_Picsart_26-08-30_13-20-46-625_d8c81516.png\",\"gallery/1788097908695_Picsart_26-08-30_13-19-52-363_bb65b83e.jpg\",\"gallery/1788097895874_Picsart_26-08-30_13-15-21-181_793563ca.png\"]",
       "category": "streets",
       "displayOrder": 0,
       "isPublished": 1,
-      "createdAt": "2026-08-28T15:05:05.000Z",
-      "updatedAt": "2026-08-28T15:05:05.000Z"
+      "createdAt": "2026-08-30T19:21:51.000Z",
+      "updatedAt": "2026-08-30T19:22:21.000Z"
     },
     {
       "id": 8,
@@ -85,16 +85,16 @@
       "updatedAt": "2026-04-28T13:54:50.000Z"
     },
     {
-      "id": 61,
-      "title": "Porsche 911 Targa 4",
+      "id": 65,
+      "title": "SILENT ARCHITEct",
       "description": null,
-      "imageUrl": "[\"/exported-images/61_porsche_911_targa_4_0.png\",\"/exported-images/61_porsche_911_targa_4_1.png\",\"/exported-images/61_porsche_911_targa_4_2.png\",\"/exported-images/61_porsche_911_targa_4_3.png\"]",
-      "imageKey": "[\"gallery/1787910857537_Picsart_26-08-22_19-46-33-553_1787910673_622be1d3.png\",\"gallery/1787910859236_Picsart_26-08-22_19-51-10-144_1787910689_0f79bae6.png\",\"gallery/1787910861080_Picsart_26-08-22_19-52-17-557_1787910770_a31228d8.png\",\"gallery/1787910862845_Picsart_26-08-22_19-53-36-873_1787910716_facb76f7.png\"]",
-      "category": "landscapes",
+      "imageUrl": "[\"/exported-images/65_silent_architect_0.png\",\"/exported-images/65_silent_architect_1.png\",\"/exported-images/65_silent_architect_2.png\",\"/exported-images/65_silent_architect_3.png\"]",
+      "imageKey": "[\"gallery/1788626074539_Picsart_26-09-05_15-01-09-619_ab5d4f67.png\",\"gallery/1788626077320_Picsart_26-09-05_15-04-04-521_146f9828.png\",\"gallery/1788626080069_Picsart_26-09-05_15-05-30-715_7a7c5383.png\",\"gallery/1788626082898_Picsart_26-09-05_15-07-23-279_85afa129.png\"]",
+      "category": "streets",
       "displayOrder": 0,
       "isPublished": 1,
-      "createdAt": "2026-08-28T15:24:23.000Z",
-      "updatedAt": "2026-08-28T15:24:23.000Z"
+      "createdAt": "2026-09-05T22:04:43.000Z",
+      "updatedAt": "2026-09-05T22:04:43.000Z"
     },
     {
       "id": 12,
@@ -109,16 +109,16 @@
       "updatedAt": "2026-04-28T13:56:16.000Z"
     },
     {
-      "id": 62,
-      "title": "1988 Honda CR-X",
+      "id": 66,
+      "title": "1963 Ford Glaxie",
       "description": null,
-      "imageUrl": "[\"/exported-images/62_1988_honda_cr_x_0.png\",\"/exported-images/62_1988_honda_cr_x_1.png\",\"/exported-images/62_1988_honda_cr_x_2.png\",\"/exported-images/62_1988_honda_cr_x_3.png\"]",
-      "imageKey": "[\"gallery/1787911023849_Picsart_26-08-21_22-01-11-639_1787910942_d29b8bdc.png\",\"gallery/1787911025051_Picsart_26-08-21_22-04-06-291_1787910946_4068df01.png\",\"gallery/1787911026730_Picsart_26-08-21_22-05-15-459_1787910951_f51daaa7.png\",\"gallery/1787911028283_Picsart_26-08-21_22-06-24-136_d51a010c.png\"]",
+      "imageUrl": "[\"/exported-images/66_1963_ford_glaxie_0.jpg\",\"/exported-images/66_1963_ford_glaxie_1.jpg\",\"/exported-images/66_1963_ford_glaxie_2.jpg\",\"/exported-images/66_1963_ford_glaxie_3.jpg\"]",
+      "imageKey": "[\"gallery/1791603070050_IMG_20261001_142433_d70cb8e4.jpeg\",\"gallery/1791603070434_IMG_20261001_142450_ad0d2611.jpeg\",\"gallery/1791603070712_IMG_20261001_142457_37c3fc05.jpeg\",\"gallery/1791603071002_IMG_20261001_142505_c3d37e7b.jpeg\"]",
       "category": "landscapes",
       "displayOrder": 0,
       "isPublished": 1,
-      "createdAt": "2026-08-28T15:27:08.000Z",
-      "updatedAt": "2026-08-28T15:27:08.000Z"
+      "createdAt": "2026-10-10T09:01:11.000Z",
+      "updatedAt": "2026-10-10T09:01:11.000Z"
     },
     {
       "id": 14,
@@ -169,16 +169,16 @@
       "updatedAt": "2026-06-01T18:57:27.000Z"
     },
     {
-      "id": 63,
-      "title": "1000067252",
+      "id": 67,
+      "title": "Frozen In The Moving World",
       "description": null,
-      "imageUrl": "/exported-images/63_1000067252.jpg",
-      "imageKey": "gallery/1788097456725_1000067252_5ebcda12.jpeg",
+      "imageUrl": "[\"/exported-images/67_frozen_in_the_moving_world_0.png\",\"/exported-images/67_frozen_in_the_moving_world_1.jpg\",\"/exported-images/67_frozen_in_the_moving_world_2.jpg\",\"/exported-images/67_frozen_in_the_moving_world_3.jpg\",\"/exported-images/67_frozen_in_the_moving_world_4.jpg\",\"/exported-images/67_frozen_in_the_moving_world_5.jpg\",\"/exported-images/67_frozen_in_the_moving_world_6.jpg\"]",
+      "imageKey": "[\"gallery/1791603382024_Picsart_26-09-29_23-17-58-691_6ecd1690.png\",\"gallery/1791603378899_IMG_20260725_075527 (1)_87dc0b3f.jpeg\",\"gallery/1791603377177_1000080082_1643f32a.jpeg\",\"gallery/1791603377959_1000085179 (1)_5f7e5071.jpeg\",\"gallery/1791603378386_IMG_20260722_165718 (1)_8d2a1f21.jpeg\",\"gallery/1791603377557_1000084922_0de441b0.jpeg\",\"gallery/1791603376895_1000074215 (1)_1e38f117.jpeg\"]",
       "category": "streets",
       "displayOrder": 0,
       "isPublished": 1,
-      "createdAt": "2026-08-30T19:14:16.000Z",
-      "updatedAt": "2026-08-30T19:14:16.000Z"
+      "createdAt": "2026-10-10T09:06:22.000Z",
+      "updatedAt": "2026-10-10T09:07:09.000Z"
     },
     {
       "id": 26,
@@ -241,28 +241,28 @@
       "updatedAt": "2026-06-01T19:31:13.000Z"
     },
     {
-      "id": 64,
-      "title": "Beauty Behind the Bars",
-      "description": null,
-      "imageUrl": "[\"/exported-images/64_beauty_behind_the_bars_0.jpg\",\"/exported-images/64_beauty_behind_the_bars_1.png\",\"/exported-images/64_beauty_behind_the_bars_2.png\",\"/exported-images/64_beauty_behind_the_bars_3.png\",\"/exported-images/64_beauty_behind_the_bars_4.png\",\"/exported-images/64_beauty_behind_the_bars_5.png\",\"/exported-images/64_beauty_behind_the_bars_6.png\",\"/exported-images/64_beauty_behind_the_bars_7.png\",\"/exported-images/64_beauty_behind_the_bars_8.jpg\",\"/exported-images/64_beauty_behind_the_bars_9.png\"]",
-      "imageKey": "[\"gallery/1788097885544_IMG_20260830_074339 (1)_ddc7210b.jpeg\",\"gallery/1788097888877_Picsart_26-08-30_13-13-40-343_db4bba12.png\",\"gallery/1788097892314_Picsart_26-08-30_13-14-38-297_6291d7db.png\",\"gallery/1788097898842_Picsart_26-08-30_13-16-19-822_fc6a8d2a.png\",\"gallery/1788097901749_Picsart_26-08-30_13-17-09-885_e48752f6.png\",\"gallery/1788097904777_Picsart_26-08-30_13-17-58-917_9d5bb1a1.png\",\"gallery/1788097907943_Picsart_26-08-30_13-18-55-163_bff3d2ea.png\",\"gallery/1788097911306_Picsart_26-08-30_13-20-46-625_d8c81516.png\",\"gallery/1788097908695_Picsart_26-08-30_13-19-52-363_bb65b83e.jpg\",\"gallery/1788097895874_Picsart_26-08-30_13-15-21-181_793563ca.png\"]",
+      "id": 68,
+      "title": "Journey",
+      "description": "Golden Hour In Motion",
+      "imageUrl": "[\"/exported-images/68_journey_0.jpg\",\"/exported-images/68_journey_1.jpg\"]",
+      "imageKey": "[\"gallery/1791603639382_1000086317_dfee6632.jpeg\",\"gallery/1791603639799_IMG_20260928_173659_785f48e0.jpeg\"]",
       "category": "streets",
       "displayOrder": 0,
       "isPublished": 1,
-      "createdAt": "2026-08-30T19:21:51.000Z",
-      "updatedAt": "2026-08-30T19:22:21.000Z"
+      "createdAt": "2026-10-10T09:10:39.000Z",
+      "updatedAt": "2026-10-10T09:10:39.000Z"
     },
     {
-      "id": 65,
-      "title": "SILENT ARCHITEct",
+      "id": 69,
+      "title": "Cat",
       "description": null,
-      "imageUrl": "[\"/exported-images/65_silent_architect_0.png\",\"/exported-images/65_silent_architect_1.png\",\"/exported-images/65_silent_architect_2.png\",\"/exported-images/65_silent_architect_3.png\"]",
-      "imageKey": "[\"gallery/1788626074539_Picsart_26-09-05_15-01-09-619_ab5d4f67.png\",\"gallery/1788626077320_Picsart_26-09-05_15-04-04-521_146f9828.png\",\"gallery/1788626080069_Picsart_26-09-05_15-05-30-715_7a7c5383.png\",\"gallery/1788626082898_Picsart_26-09-05_15-07-23-279_85afa129.png\"]",
-      "category": "streets",
+      "imageUrl": "[\"/exported-images/69_cat_0.jpg\",\"/exported-images/69_cat_1.jpg\",\"/exported-images/69_cat_2.jpg\",\"/exported-images/69_cat_3.webp\"]",
+      "imageKey": "[\"gallery/1791604229634_IMG_20261008_135039 (2)_7fbe422f.jpeg\",\"gallery/1791604230130_IMG_20261008_135039_bcfd7f70.jpeg\",\"gallery/1791604230458_IMG_20261008_135039_1791604049_f9ee0de7.jpeg\",\"gallery/1791604231222_IMG_20261008_213748_990_71da6974.webp\"]",
+      "category": "moments",
       "displayOrder": 0,
       "isPublished": 1,
-      "createdAt": "2026-09-05T22:04:43.000Z",
-      "updatedAt": "2026-09-05T22:04:43.000Z"
+      "createdAt": "2026-10-10T09:20:31.000Z",
+      "updatedAt": "2026-10-10T09:20:31.000Z"
     },
     {
       "id": 36,
@@ -467,6 +467,54 @@
       "isPublished": 1,
       "createdAt": "2026-07-14T15:52:09.000Z",
       "updatedAt": "2026-07-14T15:52:35.000Z"
+    },
+    {
+      "id": 59,
+      "title": "1000067252",
+      "description": null,
+      "imageUrl": "/exported-images/59_1000067252.jpg",
+      "imageKey": "gallery/1787311472189_1000067252_482cdbc2.jpeg",
+      "category": "streets",
+      "displayOrder": 0,
+      "isPublished": 1,
+      "createdAt": "2026-08-21T16:54:32.000Z",
+      "updatedAt": "2026-08-21T16:54:32.000Z"
+    },
+    {
+      "id": 60,
+      "title": "Random Clicks",
+      "description": null,
+      "imageUrl": "[\"/exported-images/60_random_clicks_0.png\",\"/exported-images/60_random_clicks_1.png\",\"/exported-images/60_random_clicks_2.png\",\"/exported-images/60_random_clicks_3.png\",\"/exported-images/60_random_clicks_4.png\"]",
+      "imageKey": "[\"gallery/1787909695610_Picsart_26-08-27_22-36-09-774_53017244.png\",\"gallery/1787909698083_Picsart_26-08-27_22-41-08-674_e2ba7e16.png\",\"gallery/1787909700489_Picsart_26-08-27_22-45-03-071_5082ca58.png\",\"gallery/1787909702521_Picsart_26-08-27_22-47-55-410_0f688261.png\",\"gallery/1787909705395_Picsart_26-08-27_22-51-24-504_429f5b3d.png\"]",
+      "category": "streets",
+      "displayOrder": 0,
+      "isPublished": 1,
+      "createdAt": "2026-08-28T15:05:05.000Z",
+      "updatedAt": "2026-08-28T15:05:05.000Z"
+    },
+    {
+      "id": 61,
+      "title": "Porsche 911 Targa 4",
+      "description": null,
+      "imageUrl": "[\"/exported-images/61_porsche_911_targa_4_0.png\",\"/exported-images/61_porsche_911_targa_4_1.png\",\"/exported-images/61_porsche_911_targa_4_2.png\",\"/exported-images/61_porsche_911_targa_4_3.png\"]",
+      "imageKey": "[\"gallery/1787910857537_Picsart_26-08-22_19-46-33-553_1787910673_622be1d3.png\",\"gallery/1787910859236_Picsart_26-08-22_19-51-10-144_1787910689_0f79bae6.png\",\"gallery/1787910861080_Picsart_26-08-22_19-52-17-557_1787910770_a31228d8.png\",\"gallery/1787910862845_Picsart_26-08-22_19-53-36-873_1787910716_facb76f7.png\"]",
+      "category": "landscapes",
+      "displayOrder": 0,
+      "isPublished": 1,
+      "createdAt": "2026-08-28T15:24:23.000Z",
+      "updatedAt": "2026-08-28T15:24:23.000Z"
+    },
+    {
+      "id": 62,
+      "title": "1988 Honda CR-X",
+      "description": null,
+      "imageUrl": "[\"/exported-images/62_1988_honda_cr_x_0.png\",\"/exported-images/62_1988_honda_cr_x_1.png\",\"/exported-images/62_1988_honda_cr_x_2.png\",\"/exported-images/62_1988_honda_cr_x_3.png\"]",
+      "imageKey": "[\"gallery/1787911023849_Picsart_26-08-21_22-01-11-639_1787910942_d29b8bdc.png\",\"gallery/1787911025051_Picsart_26-08-21_22-04-06-291_1787910946_4068df01.png\",\"gallery/1787911026730_Picsart_26-08-21_22-05-15-459_1787910951_f51daaa7.png\",\"gallery/1787911028283_Picsart_26-08-21_22-06-24-136_d51a010c.png\"]",
+      "category": "landscapes",
+      "displayOrder": 0,
+      "isPublished": 1,
+      "createdAt": "2026-08-28T15:27:08.000Z",
+      "updatedAt": "2026-08-28T15:27:08.000Z"
     },
     {
       "id": 11,
