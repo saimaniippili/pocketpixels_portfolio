@@ -25,18 +25,6 @@
       "updatedAt": "2026-04-28T12:51:18.000Z"
     },
     {
-      "id": 63,
-      "title": "1000067252",
-      "description": null,
-      "imageUrl": "/exported-images/63_1000067252.jpg",
-      "imageKey": "gallery/1788097456725_1000067252_5ebcda12.jpeg",
-      "category": "streets",
-      "displayOrder": 0,
-      "isPublished": 1,
-      "createdAt": "2026-08-30T19:14:16.000Z",
-      "updatedAt": "2026-08-30T19:14:16.000Z"
-    },
-    {
       "id": 64,
       "title": "Beauty Behind the Bars",
       "description": null,
@@ -47,6 +35,18 @@
       "isPublished": 1,
       "createdAt": "2026-08-30T19:21:51.000Z",
       "updatedAt": "2026-08-30T19:22:21.000Z"
+    },
+    {
+      "id": 65,
+      "title": "SILENT ARCHITEct",
+      "description": null,
+      "imageUrl": "[\"/exported-images/65_silent_architect_0.png\",\"/exported-images/65_silent_architect_1.png\",\"/exported-images/65_silent_architect_2.png\",\"/exported-images/65_silent_architect_3.png\"]",
+      "imageKey": "[\"gallery/1788626074539_Picsart_26-09-05_15-01-09-619_ab5d4f67.png\",\"gallery/1788626077320_Picsart_26-09-05_15-04-04-521_146f9828.png\",\"gallery/1788626080069_Picsart_26-09-05_15-05-30-715_7a7c5383.png\",\"gallery/1788626082898_Picsart_26-09-05_15-07-23-279_85afa129.png\"]",
+      "category": "streets",
+      "displayOrder": 0,
+      "isPublished": 1,
+      "createdAt": "2026-09-05T22:04:43.000Z",
+      "updatedAt": "2026-09-05T22:04:43.000Z"
     },
     {
       "id": 8,
@@ -85,16 +85,16 @@
       "updatedAt": "2026-04-28T13:54:50.000Z"
     },
     {
-      "id": 65,
-      "title": "SILENT ARCHITEct",
+      "id": 66,
+      "title": "1963 Ford Glaxie",
       "description": null,
-      "imageUrl": "[\"/exported-images/65_silent_architect_0.png\",\"/exported-images/65_silent_architect_1.png\",\"/exported-images/65_silent_architect_2.png\",\"/exported-images/65_silent_architect_3.png\"]",
-      "imageKey": "[\"gallery/1788626074539_Picsart_26-09-05_15-01-09-619_ab5d4f67.png\",\"gallery/1788626077320_Picsart_26-09-05_15-04-04-521_146f9828.png\",\"gallery/1788626080069_Picsart_26-09-05_15-05-30-715_7a7c5383.png\",\"gallery/1788626082898_Picsart_26-09-05_15-07-23-279_85afa129.png\"]",
-      "category": "streets",
+      "imageUrl": "[\"/exported-images/66_1963_ford_glaxie_0.jpg\",\"/exported-images/66_1963_ford_glaxie_1.jpg\",\"/exported-images/66_1963_ford_glaxie_2.jpg\",\"/exported-images/66_1963_ford_glaxie_3.jpg\"]",
+      "imageKey": "[\"gallery/1791603070050_IMG_20261001_142433_d70cb8e4.jpeg\",\"gallery/1791603070434_IMG_20261001_142450_ad0d2611.jpeg\",\"gallery/1791603070712_IMG_20261001_142457_37c3fc05.jpeg\",\"gallery/1791603071002_IMG_20261001_142505_c3d37e7b.jpeg\"]",
+      "category": "landscapes",
       "displayOrder": 0,
       "isPublished": 1,
-      "createdAt": "2026-09-05T22:04:43.000Z",
-      "updatedAt": "2026-09-05T22:04:43.000Z"
+      "createdAt": "2026-10-10T09:01:11.000Z",
+      "updatedAt": "2026-10-10T09:01:11.000Z"
     },
     {
       "id": 12,
@@ -109,16 +109,16 @@
       "updatedAt": "2026-04-28T13:56:16.000Z"
     },
     {
-      "id": 66,
-      "title": "1963 Ford Glaxie",
+      "id": 67,
+      "title": "Frozen In The Moving World",
       "description": null,
-      "imageUrl": "[\"/exported-images/66_1963_ford_glaxie_0.jpg\",\"/exported-images/66_1963_ford_glaxie_1.jpg\",\"/exported-images/66_1963_ford_glaxie_2.jpg\",\"/exported-images/66_1963_ford_glaxie_3.jpg\"]",
-      "imageKey": "[\"gallery/1791603070050_IMG_20261001_142433_d70cb8e4.jpeg\",\"gallery/1791603070434_IMG_20261001_142450_ad0d2611.jpeg\",\"gallery/1791603070712_IMG_20261001_142457_37c3fc05.jpeg\",\"gallery/1791603071002_IMG_20261001_142505_c3d37e7b.jpeg\"]",
-      "category": "landscapes",
+      "imageUrl": "[\"/exported-images/67_frozen_in_the_moving_world_0.png\",\"/exported-images/67_frozen_in_the_moving_world_1.jpg\",\"/exported-images/67_frozen_in_the_moving_world_2.jpg\",\"/exported-images/67_frozen_in_the_moving_world_3.jpg\",\"/exported-images/67_frozen_in_the_moving_world_4.jpg\",\"/exported-images/67_frozen_in_the_moving_world_5.jpg\",\"/exported-images/67_frozen_in_the_moving_world_6.jpg\"]",
+      "imageKey": "[\"gallery/1791603382024_Picsart_26-09-29_23-17-58-691_6ecd1690.png\",\"gallery/1791603378899_IMG_20260725_075527 (1)_87dc0b3f.jpeg\",\"gallery/1791603377177_1000080082_1643f32a.jpeg\",\"gallery/1791603377959_1000085179 (1)_5f7e5071.jpeg\",\"gallery/1791603378386_IMG_20260722_165718 (1)_8d2a1f21.jpeg\",\"gallery/1791603377557_1000084922_0de441b0.jpeg\",\"gallery/1791603376895_1000074215 (1)_1e38f117.jpeg\"]",
+      "category": "streets",
       "displayOrder": 0,
       "isPublished": 1,
-      "createdAt": "2026-10-10T09:01:11.000Z",
-      "updatedAt": "2026-10-10T09:01:11.000Z"
+      "createdAt": "2026-10-10T09:06:22.000Z",
+      "updatedAt": "2026-10-10T09:07:09.000Z"
     },
     {
       "id": 14,
@@ -169,16 +169,16 @@
       "updatedAt": "2026-06-01T18:57:27.000Z"
     },
     {
-      "id": 67,
-      "title": "Frozen In The Moving World",
-      "description": null,
-      "imageUrl": "[\"/exported-images/67_frozen_in_the_moving_world_0.png\",\"/exported-images/67_frozen_in_the_moving_world_1.jpg\",\"/exported-images/67_frozen_in_the_moving_world_2.jpg\",\"/exported-images/67_frozen_in_the_moving_world_3.jpg\",\"/exported-images/67_frozen_in_the_moving_world_4.jpg\",\"/exported-images/67_frozen_in_the_moving_world_5.jpg\",\"/exported-images/67_frozen_in_the_moving_world_6.jpg\"]",
-      "imageKey": "[\"gallery/1791603382024_Picsart_26-09-29_23-17-58-691_6ecd1690.png\",\"gallery/1791603378899_IMG_20260725_075527 (1)_87dc0b3f.jpeg\",\"gallery/1791603377177_1000080082_1643f32a.jpeg\",\"gallery/1791603377959_1000085179 (1)_5f7e5071.jpeg\",\"gallery/1791603378386_IMG_20260722_165718 (1)_8d2a1f21.jpeg\",\"gallery/1791603377557_1000084922_0de441b0.jpeg\",\"gallery/1791603376895_1000074215 (1)_1e38f117.jpeg\"]",
+      "id": 68,
+      "title": "Journey",
+      "description": "Golden Hour In Motion",
+      "imageUrl": "[\"/exported-images/68_journey_0.jpg\",\"/exported-images/68_journey_1.jpg\"]",
+      "imageKey": "[\"gallery/1791603639382_1000086317_dfee6632.jpeg\",\"gallery/1791603639799_IMG_20260928_173659_785f48e0.jpeg\"]",
       "category": "streets",
       "displayOrder": 0,
       "isPublished": 1,
-      "createdAt": "2026-10-10T09:06:22.000Z",
-      "updatedAt": "2026-10-10T09:07:09.000Z"
+      "createdAt": "2026-10-10T09:10:39.000Z",
+      "updatedAt": "2026-10-10T09:10:39.000Z"
     },
     {
       "id": 26,
@@ -241,18 +241,6 @@
       "updatedAt": "2026-06-01T19:31:13.000Z"
     },
     {
-      "id": 68,
-      "title": "Journey",
-      "description": "Golden Hour In Motion",
-      "imageUrl": "[\"/exported-images/68_journey_0.jpg\",\"/exported-images/68_journey_1.jpg\"]",
-      "imageKey": "[\"gallery/1791603639382_1000086317_dfee6632.jpeg\",\"gallery/1791603639799_IMG_20260928_173659_785f48e0.jpeg\"]",
-      "category": "streets",
-      "displayOrder": 0,
-      "isPublished": 1,
-      "createdAt": "2026-10-10T09:10:39.000Z",
-      "updatedAt": "2026-10-10T09:10:39.000Z"
-    },
-    {
       "id": 69,
       "title": "Cat",
       "description": null,
@@ -263,6 +251,18 @@
       "isPublished": 1,
       "createdAt": "2026-10-10T09:20:31.000Z",
       "updatedAt": "2026-10-10T09:20:31.000Z"
+    },
+    {
+      "id": 70,
+      "title": "Lord Ganesh",
+      "description": null,
+      "imageUrl": "[\"/exported-images/70_lord_ganesh_0.jpg\",\"/exported-images/70_lord_ganesh_1.jpg\",\"/exported-images/70_lord_ganesh_2.jpg\",\"/exported-images/70_lord_ganesh_3.jpg\",\"/exported-images/70_lord_ganesh_4.jpg\",\"/exported-images/70_lord_ganesh_5.jpg\",\"/exported-images/70_lord_ganesh_6.jpg\"]",
+      "imageKey": "[\"gallery/1793618184582_IMG_20260912_210959_1_999548b6.jpeg\",\"gallery/1793618183083_1000082214_ac5e3210.jpeg\",\"gallery/1793618181964_1000081043_75ad8d94.jpeg\",\"gallery/1793618184025_IMG_20260912_210357 (1)_c8a83325.jpeg\",\"gallery/1793618183458_1000085180 (1)_0422915d.jpeg\",\"gallery/1793618185138_IMG_20260912_224404 (1)_7114efda.jpeg\",\"gallery/1793618185497_IMG_20260912_224627 (1)_66f69ec6.jpeg\"]",
+      "category": "streets",
+      "displayOrder": 0,
+      "isPublished": 1,
+      "createdAt": "2026-11-02T16:46:25.000Z",
+      "updatedAt": "2026-11-02T16:47:11.000Z"
     },
     {
       "id": 36,
@@ -515,6 +515,18 @@
       "isPublished": 1,
       "createdAt": "2026-08-28T15:27:08.000Z",
       "updatedAt": "2026-08-28T15:27:08.000Z"
+    },
+    {
+      "id": 63,
+      "title": "1000067252",
+      "description": null,
+      "imageUrl": "/exported-images/63_1000067252.jpg",
+      "imageKey": "gallery/1788097456725_1000067252_5ebcda12.jpeg",
+      "category": "streets",
+      "displayOrder": 0,
+      "isPublished": 1,
+      "createdAt": "2026-08-30T19:14:16.000Z",
+      "updatedAt": "2026-08-30T19:14:16.000Z"
     },
     {
       "id": 11,
